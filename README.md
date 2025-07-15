@@ -1,4 +1,4 @@
-**# India’s Food Consumption Shift: A Data-Driven Analysis of Food Delivery Trends**
+# India’s Food Consumption Shift: A Data-Driven Analysis of Food Delivery Trends
 Project Overview
 This project explores how rising disposable incomes and changing urban lifestyles in India influence food consumption patterns, focusing on the role of food delivery platforms like Zomato. It combines Zomato restaurant data with national economic and food consumption datasets to uncover patterns in processed food preferences and their socioeconomic drivers.
 
