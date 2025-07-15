@@ -1,61 +1,58 @@
-# Decoding-India-s-Changing-Palate-A-Visual-Analysis-of-Food-Delivery-and-Consumption-Patterns
+#India’s Food Consumption Shift: A Data-Driven Analysis of Food Delivery Trends
+Project Overview
+This project explores how rising disposable incomes and changing urban lifestyles in India influence food consumption patterns, focusing on the role of food delivery platforms like Zomato. It combines Zomato restaurant data with national economic and food consumption datasets to uncover patterns in processed food preferences and their socioeconomic drivers.
 
-## Introduction
-Project Goals:
- 1. To visually explore the trend of increasing expenditure on processed and 
-ready-to-eat food in India.//
-2. To understand the role of food delivery platforms like Zomato in this trend, 
-particularly in urban areas.//
-3. To identify patterns in Zomato order data related to food preferences and 
-location.// 
-4. To contextualize the rise of food delivery within broader economic and 
-consumption trends in India.
-## Narrative:
-The growing spending on processed and ready-to-eat food in India is primarily 
-driven by rising disposable incomes and changing urban lifestyles, rather than 
-solely by the emergence of food delivery platforms like Zomato. As economic 
-growth expands financial flexibility for a larger segment of the population—
-particularly in urban areas—people are increasingly willing to spend on Decoding India's Changing Palate: A Visual Analysis of Food Delivery and Consumption Patterns1
-convenience-oriented food options. Moreover, time constraints resulting from 
-longer work hours, traffic congestion, and busy schedules have reduced the 
-inclination and capacity for home-cooked meals. In this evolving landscape, 
-Zomato acts as a powerful enabler, enhancing access to a wide variety of 
-restaurant food at the tap of a button. It has reinforced and accelerated the shift 
-toward convenient and time-saving meal solutions. However, while Zomato plays a 
-crucial role in shaping consumption patterns, the underlying transformation is 
-rooted in broader socioeconomic and lifestyle changes that were already 
-underway.
-## Context and Problem Statement
-### Background: Shifting Food Consumption Trends in an Urbanizing India
-India is undergoing rapid urbanization, with a significant portion of its population 
-migrating to cities in search of economic opportunities and improved lifestyles. 
-This increasing urbanization has profoundly impacted traditional food 
-consumption patterns. Urban environments often present individuals with busier 
-schedules, longer commutes, and a greater exposure to diverse culinary options. 
-Consequently, there's a growing demand for convenience and readily available 
-food choices that fit these evolving lifestyles. This shift is not limited to just ease 
-of access but also encompasses a desire for variety and the experience of 
-restaurant-quality food without the constraints of cooking at home. Furthermore, 
-globalized food trends and increased exposure to different cuisines through media 
-and travel have also contributed to a diversification of Indian palates.
-### Personal Observation and Broader Context
-My own experience of increased reliance on Zomato for meals  after relocating to 
-a busy city initially sparked my curiosity about how such platforms influence our 
-food choices. While this shift highlighted the ease and convenience they offer, it 
-also made me wonder whether my experience was unique or part of a broader 
-pattern. This curiosity led me to examine national-level food consumption data to 
-better understand the larger impact of platforms like Zomato.→
-### National Trend: The Growing Preference for Processed Foods
-Data from the Household Consumption Expenditure Survey reveals a significant 
-national trend: an increasing share of household expenditure is being directed Decoding India's Changing Palate: A Visual Analysis of Food Delivery and Consumption Patterns2
-towards processed and ready-to-eat food items. This share rose from 
-approximately 18% in 201112 to around 25% in 202223. This indicates a broader 
-societal shift in food consumption habits, suggesting a growing acceptance and 
-preference for convenient food options that require less preparation time. While 
-this shift in food consumption was well underway even prior to the widespread 
-use of food delivery platforms, their emergence has likely accelerated this trend.→ Problem Statement:
-The project aims to delve deeper into the relationship between the rise of food 
-delivery platforms, exemplified by Zomato, and the increasing consumption of 
-processed and ready-to-eat food in urban India. While convenience offered by 
-these platforms is a clear factor, our analysis seeks to explore the underlying 
-drivers and patterns associated with this shift.
+##Project Goals
+Analyze the growing expenditure on processed and ready-to-eat food in India using visual and data-driven methods.
+Understand Zomato’s role in shaping urban food consumption behavior.
+Identify location-based food preferences and restaurant distribution patterns across major Indian cities.
+Contextualize the rise of food delivery services within broader economic and lifestyle shifts.
+
+##Narrative Summary
+India’s increasing reliance on processed and ready-to-eat food is primarily driven by rising disposable incomes and evolving urban lifestyles. Platforms like Zomato act as key enablers, enhancing accessibility but not being the sole drivers of this transformation.
+
+##Key observations:
+Time-constrained urban lifestyles are reducing home-cooked meal preferences.
+Zomato and similar platforms simplify access to restaurant-quality food, accelerating existing trends.
+Broader socioeconomic changes—such as urbanization and income growth—are the fundamental drivers.
+
+##Context and Problem Statement
+Background:
+India is experiencing rapid urbanization, profoundly impacting food consumption patterns. Urban dwellers increasingly prefer convenience-based eating habits, supported by the growing availability of food delivery services.
+
+##National Trend:
+HCES data indicates a significant national shift:
+Processed food expenditure rose from ~18% (2011–12) to ~25% (2022–23) in urban households.
+
+##Problem Statement:
+The project aims to investigate the link between food delivery platform growth and rising processed food consumption in urban India, uncovering deeper behavioral and economic drivers behind this shift.
+
+##Datasets Used
+Dataset	Description	Source
+Zomato Dataset	Restaurant data (Bangalore) including ratings, location, cuisines, popular dishes	Kaggle
+HCES	Urban vs. rural food consumption percentages (2004–2024)	Public data
+Zomato & Swiggy Financials	Food delivery business metrics (2015–2025)	Public reports
+Company Financials	Sales, Profit, EPS (2015–2024)	Public reports
+Inflation Dataset	CPI & WPI rates (2004–2023)	Public economic reports
+
+##Analysis Highlights
+Urban Processed Food Spending:
+Increased from ~11% (2004–05) to ~29% (2023–24) — showing clear urban behavior shifts.
+Word Clouds:
+Highlighting popular processed foods like pizza, biryani, fried chicken in Bangalore, Mumbai, Kolkata.
+Restaurant Density:
+High concentration of restaurants in specific urban localities indicates demand for convenience.
+Zomato vs. Swiggy Financial Growth:
+Zomato leads in both Gross Order Value and Monthly Transacting Users between 2021–2025.
+GDP Correlation:
+As India’s GDP per capita increased, so did processed food expenditure and food delivery platform growth.
+
+##Technologies Used
+Python (Pandas, Matplotlib, Seaborn)
+Tableau 
+
+##Key Takeaways
+Urban food consumption patterns in India are increasingly convenience-driven.
+Zomato and similar platforms accelerate but do not cause this shift—economic growth is the primary driver.
+The analysis provides actionable insights for category management, growth strategy, and monetization in e-commerce and food delivery sectors.
+
